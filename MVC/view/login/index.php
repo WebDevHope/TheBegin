@@ -9,7 +9,6 @@
             <form action="index.php?controller=login&action=doLogin" method="post">
                 <label for="login">
                     <input id="login" type="text" name="user_login" placeholder="Login">
-                    
                 </label>
                 <label for="pass">
                     <input id="pass" type="password" name="user_password" placeholder="Password">
