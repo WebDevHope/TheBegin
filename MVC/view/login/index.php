@@ -10,6 +10,10 @@
                 <label for="login">
                     <input id="login" type="text" name="user_login" placeholder="Login">
                 </label>
+
+
+
+                //ads
                 <label for="pass">
                     <input id="pass" type="password" name="user_password" placeholder="Password">
                 </label>
