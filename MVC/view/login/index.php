@@ -10,12 +10,15 @@
                 <label for="login">
                     <input id="login" type="text" name="user_login" placeholder="Login">
                 </label>
+<<<<<<< HEAD
 
 
 
                 //ads
 
                 /asd22
+=======
+>>>>>>> parent of a7bd643... test_2
                 <label for="pass">
                     <input id="pass" type="password" name="user_password" placeholder="Password">
                 </label>
